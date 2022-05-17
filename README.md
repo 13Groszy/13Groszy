@@ -36,10 +36,6 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
   &emsp;
     <img alt="Java" src="https://img.shields.io/badge/TypeScript%20-%2300599C.svg?style=plastic&logo=typescript&logoColor=white">
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  </a>
 </p>
 
 ### 👉 Frontend Development
