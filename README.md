@@ -29,15 +29,6 @@
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages
-
-<p align="center"> 
-  &emsp;
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-  &emsp;
-    <img alt="Java" src="https://img.shields.io/badge/TypeScript%20-%2300599C.svg?style=plastic&logo=typescript&logoColor=white">
-</p>
-
 ### 👉 Frontend Development
 <p align="center"> 
   &emsp; 
@@ -48,6 +39,14 @@
     <img alt="Sass" src="https://img.shields.io/badge/Sass-pink.svg?style=plastic&logo=sass&logoColor=white">
   &emsp;
     <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind-blue.svg?style=plastic&logo=tailwindcss&logoColor=white">
+  &emsp;
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+  &emsp;
+     <img alt="jQuery" src="https://img.shields.io/badge/jquery-white.svg?style=plastic&logo=jquery&logoColor=blue">
+  &emsp;
+    <img alt="Vue.js" src="https://img.shields.io/badge/Vue-white.svg?style=plastic&logo=vue.js&logoColor=darkgreen">	
+  &emsp;
+    <img alt="WordPress" src="https://img.shields.io/badge/WordPress-white.svg?style=plastic&logo=wordpress&logoColor=blue">	
 </p>
 
  ### 👉 Software & Tools
@@ -87,4 +86,4 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=13Groszy&layout=compact&theme=algolia" alt="13Groszy" /></a> </p>
 
 -----
-Credits: [13Geoszy](https://github.com/13Groszy)
+Credits: [13Groszy](https://github.com/13Groszy)
