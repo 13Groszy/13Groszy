@@ -8,6 +8,7 @@
 - :computer: Whenever I can, I try to `write the code`
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`
 - :nerd_face: Always `learning new things`
+- :smile: More about [here](https://mdaszkiewicz.netlify.app)
 
 <br>
 
