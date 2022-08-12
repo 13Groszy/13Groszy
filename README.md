@@ -3,10 +3,10 @@
 <br>
 
 ## :sassy_man:  About me
-- :student:: I am a self taught Junior Front End Developer
+- :student:: I'm self taught Junior Front End Developer
 - :technologist: I love learning about Web Development
 - :computer: Whenever I can, I try to `write the code`
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`
+- :thinking: I’m currently open for: new `job opportunity` or `freelance project`
 - :nerd_face: Always `learning new things`
 - :smile: More info about me is available on my [portfolio](https://mdaszkiewicz.netlify.app)
 
