@@ -43,7 +43,9 @@
   &emsp;
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
   &emsp;
-     <img alt="jQuery" src="https://img.shields.io/badge/jquery-white.svg?style=plastic&logo=jquery&logoColor=blue">
+     <img alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic">
+  &emsp;
+     <img alt="Next.js" src="https://shields.io/badge/NEXT.js-black?logo=&style=plastic%22">
   &emsp;
     <img alt="Vue.js" src="https://img.shields.io/badge/Vue-white.svg?style=plastic&logo=vue.js&logoColor=darkgreen">	
   &emsp;
@@ -71,16 +73,6 @@
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
 </p>
-
-<br/>
-
-## 📊 Github Stats
-
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/13Groszy"><img alt="13Groszy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=13Groszy&custom_title=13Groszy's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
 
 <br/>
 
