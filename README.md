@@ -12,12 +12,6 @@
 
 <br>
 
-## 🔥 Streak Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=13Groszy&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-<br>
-<br>
-
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
